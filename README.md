@@ -15,16 +15,16 @@ I am a **Final Year Computer Science student** at the National Open University o
 ### 🚀 Key Projects
 - **Intelligent Facial Recognition System:** My final year project focused on campus security and automated identity verification.
 - **NOUN Study Buddy:** A mobile application providing academic resources and mock exams for university students.
-- **FastAPI Dating Site:** A full-stack application built using FastAPI and PostgreSQL.
+- **FastAPI Dating Site:** A full-stack application built using **FastAPI** and **PostgreSQL**.
 
 ### 🛠 Tech Stack
-- **Data Science:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-- **Backend:** FastAPI, Flask, Django, PostgreSQL, MySQL
+- **Backend Development:** **Python (FastAPI, Flask, Django)**, **PostgreSQL**, **MySQL**
+- **Data Science:** **Pandas**, **NumPy**, **Scikit-learn**, **Matplotlib**, **Seaborn**
 - **Tools:** Git, GitHub, Postman, Linux
 
 ### 📈 Current Focus
 - Completing my undergraduate degree (Final exams starting April 21, 2026!).
-- Scaling backend architectures into high-performance AI solutions.
+- Scaling **Backend** architectures into high-performance AI solutions.
 
 ### 📫 Connect with me
 - **LinkedIn:** [adanna-mabel-8310b725b](https://www.linkedin.com/in/adanna-mabel-8310b725b)
